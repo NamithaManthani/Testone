@@ -24,5 +24,6 @@ public class TC2 extends StartBrowser {
 	    //Assert.assertEquals(actMsg, "Student Hub");
 	    sign.logout();
 	  
+	    System.out.println ("Test one test"); 
   }
 }
